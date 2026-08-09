@@ -1813,5 +1813,3 @@ Nobody learns Git by memorizing 50 commands.
 
 You learn it by **using it, breaking something, seeing the error,
 understanding what happened, and trying again**.
-
-That's exactly how we're going to learn it while building Heimdall.
